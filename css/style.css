@@ -60,11 +60,11 @@ body {
 	opacity: 0;
 }
 
-@media (prefers-color-scheme: dark) {
+/*@media (prefers-color-scheme: dark) {
 	body {
 		background-color: var(--color-dark);
 	}
 	.header {
 		filter: invert(100%);
 	}
-}
+}*/
